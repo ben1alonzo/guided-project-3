@@ -2,3 +2,5 @@ generate_data.py
 troop_movements10m.csv
 home_worlds.json
 troop_movements.csv
+./notebooks/trained_model.pkl
+./notebooks/troop_movements_10m_data.parquet
